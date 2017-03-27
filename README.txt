@@ -1,1 +1,1 @@
-Simples pages HTML et CSS
+Page HTML liée au CDN de Bootstrap et page de style vide.
