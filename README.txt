@@ -1,1 +1,1 @@
-Page HTML liée au CDN de Bootstrap et page de style vide.
+Page HTML liée au CDN de Bootstrap, page de style qui donne la couleur rouge aux balises h1 ainsi qu'un fichier JavaScript.
